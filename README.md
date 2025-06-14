@@ -82,7 +82,7 @@ JOIN între școală și elevi / personal
 ---
 
 ## Realizat de
-Proiect realizat de bogdanch7
+Proiect realizat de [bogdanch7](https://github.com/bogdanch7)
 
 An universitar 2024–2025
 
