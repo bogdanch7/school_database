@@ -5,33 +5,51 @@ Acest proiect reprezintă modelarea și implementarea unei baze de date relațio
 
 ## Funcționalități
 Model entitate-asociere (ER) cu 11 entități relaționate prin chei primare și străine
+
 Tabele bine normalizate pentru evitarea redundanțelor și menținerea integrității datelor
+
 Interogări SQL complexe pentru extragerea de statistici educaționale și administrative
+
 VIEW-uri relaționale și interogări JOIN pentru corelarea multiplă a datelor
+
 Cod SQL complet: creare tabele, populare cu date și interogări utile
+
 Diagrama relațională completă și prezentare detaliată a relațiilor
+
 Inserarea de date pentru simularea unui caz real
 
 ---
 
 ## Entități și Tabele
 scoala – date despre școală (nume, adresă, telefon)
+
 elevi – date personale, cont institutional elev, legătură cu părinți și școala
+
 parinti – nume, prenume, CNP, telefon, email
+
 personal_administrativ – angajați cu funcții administrative și salarizare
+
 personal_didactic – profesori cu specializări, salarii, funcții
-personal_auxiliar – personal medical, întreținere, tehnic etc.
+
+personal_auxiliar – personal medical, întreținere, tehnic
+
 profiluri – categorii de studiu (Real, Uman), cu număr clase/locuri
+
 orare – intervale orare, zile, sală, profil asociat
+
 materii – legate de orar și profil, definite prin id_orar
+
 sali – locuri disponibile, dotări, legate de școală
+
 cataloage – evidență clase: nume, note, absențe, învoiri
 
 ---
 
 ## Structura fișierelor
 documentatie_baza_de_date_scoala.pdf – documentație completă
+
 diagrama_scoala.png – diagramă EA relațională completă
+
 dbschool.sql – script SQL pentru definirea conținutului bazei de date și exemple de interogări 
 
 ---
@@ -55,8 +73,11 @@ Concatenare detalii elev + școală (Detalii)
 
 ## Tehnologii utilizate
 Oracle SQL Developer – IDE principal pentru testare și rulare cod SQL
+
 Visual Studio Code – editare și structurare cod cu extensii pentru SQL
+
 Oracle Database 21c – sistem de gestiune a bazei de date relaționale (SGDBR)
+
 Standard SQL (Oracle dialect) – limbaj de definire, interogare și manipulare date
 
 ---
