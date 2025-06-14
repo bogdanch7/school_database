@@ -114,7 +114,7 @@ Afișarea orelor în funcție de orare
 
 ![prop](https://github.com/user-attachments/assets/73c854e1-d011-4a9b-aeee-4547679e0f7b)
 
-Afișarea și concatenarea textului
+Afișarea detaliilor despre elevi și scoala lor într-o propoziție
 
 ---
 
