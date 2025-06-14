@@ -4,19 +4,14 @@ Acest proiect reprezintă modelarea și implementarea unei baze de date relațio
 ---
 
 ## Funcționalități
-Model entitate-asociere (ER) cu 11 entități relaționate prin chei primare și străine
 
-Tabele bine normalizate pentru evitarea redundanțelor și menținerea integrității datelor
-
-Interogări SQL complexe pentru extragerea de statistici educaționale și administrative
-
-VIEW-uri relaționale și interogări JOIN pentru corelarea multiplă a datelor
-
-Cod SQL complet: creare tabele, populare cu date și interogări utile
-
-Diagrama relațională completă și prezentarea detaliată a relațiilor
-
-Inserarea de date pentru simularea unui caz real
+- Model entitate-asociere (ER) cu 11 entități relaționate prin chei primare și străine
+- Tabele bine normalizate pentru evitarea redundanțelor și menținerea integrității datelor
+- Interogări SQL complexe pentru extragerea de statistici educaționale și administrative
+- VIEW-uri relaționale și interogări JOIN pentru corelarea multiplă a datelor
+- Cod SQL complet: creare tabele, populare cu date și interogări utile
+- Diagrama relațională completă și prezentarea detaliată a relațiilor
+- Inserarea de date pentru simularea unui caz real
 
 ---
 
