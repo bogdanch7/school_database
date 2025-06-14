@@ -84,7 +84,9 @@ Standard SQL (Oracle dialect) – limbaj de definire, interogare și manipulare 
 
 ## Rulare și testare
 Deschide Oracle SQL Developer
+
 Creează conexiunea cu baza Oracle locală
+
 Rulează dbschool.sql
 
 ---
