@@ -1,4 +1,4 @@
-# Bază de Date pentru o școală – Proiect educațional relațional Oracle
+# Bază de Date pentru o școală
 Acest proiect reprezintă modelarea și implementarea unei baze de date relaționale complete pentru o instituție de învățământ. Proiectul a fost realizat în cadrul disciplinei **Bazele de Date**, folosind Oracle SQL Developer și Visual Studio Code. Scopul principal este gestionarea centralizată a informațiilor despre elevi, părinți, cadrele didactice, personalul auxiliar și administrativ, alături de structura orară, materiile, sălile și cataloagele unei școli.
 
 ---
@@ -76,14 +76,35 @@ Rulează dbschool.sql
 
 ## Capturi
 
-
+![school db diagram](https://github.com/user-attachments/assets/5a95e3f6-c3e4-4eba-a11e-86eded58865f)
 Diagramă EA a bazei de date
 
-Rezultatele SELECT-urilor importante
+![parinti](https://github.com/user-attachments/assets/a489a283-7dd0-4589-9a7d-d8fc9519483e)
+Crearea tabelei ȘCOALĂ
 
-View „EleviSiParinti”
+![scoala](https://github.com/user-attachments/assets/8b804427-8f81-4610-9a40-4fc585270909)
+Inserarea datelor în tabela ȘCOALĂ
 
-JOIN între școală și elevi / personal
+![afisare](https://github.com/user-attachments/assets/8fb097ff-f781-4e09-b446-28d36c7856b8)
+Afișarea informațiilor din tabela școală
+
+![select](https://github.com/user-attachments/assets/e7201664-4d49-40db-8c3f-574e613099e9)
+Afișarea numelor și prenumelor profesorilor de Română și Matematică
+
+![image](https://github.com/user-attachments/assets/aac1d4fc-1ec1-4bd8-911a-b8db0e81efec)
+Afișarea numelui personalului administrativ
+
+![select1](https://github.com/user-attachments/assets/efe919a0-5435-43ce-80ae-15d868aff0cd)
+Afișarea materiilor care se predau în ziua de luni
+
+![view](https://github.com/user-attachments/assets/595296cb-973e-40e6-a5f6-1f23a785dd09)
+Afișarea view-ului "EleviSiParinti"
+
+![select2](https://github.com/user-attachments/assets/addf53c5-a3dc-4fd9-bf0c-6546e0ada414)
+Afișarea orelor în funcție de orare
+
+![prop](https://github.com/user-attachments/assets/73c854e1-d011-4a9b-aeee-4547679e0f7b)
+Afișarea și concatenarea textului
 
 ---
 
