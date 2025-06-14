@@ -1,4 +1,4 @@
-# Bază de Date pentru Școală – Proiect educațional relațional Oracle
+# Bază de Date pentru o școală – Proiect educațional relațional Oracle
 Acest proiect reprezintă modelarea și implementarea unei baze de date relaționale complete pentru o instituție de învățământ. Proiectul a fost realizat în cadrul disciplinei **Bazele de Date**, folosind Oracle SQL Developer și Visual Studio Code. Scopul principal este gestionarea centralizată a informațiilor despre elevi, părinți, cadrele didactice, personalul auxiliar și administrativ, alături de structura orară, materiile, sălile și cataloagele unei școli.
 
 ---
