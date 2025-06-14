@@ -14,7 +14,7 @@ VIEW-uri relaționale și interogări JOIN pentru corelarea multiplă a datelor
 
 Cod SQL complet: creare tabele, populare cu date și interogări utile
 
-Diagrama relațională completă și prezentare detaliată a relațiilor
+Diagrama relațională completă și prezentarea detaliată a relațiilor
 
 Inserarea de date pentru simularea unui caz real
 
@@ -23,7 +23,7 @@ Inserarea de date pentru simularea unui caz real
 ## Entități și Tabele
 scoala – date despre școală (nume, adresă, telefon)
 
-elevi – date personale, cont institutional elev, legătură cu părinți și școala
+elevi – date personale, cont instituțional elev, legătură cu părinții lor și școală
 
 parinti – nume, prenume, CNP, telefon, email
 
@@ -33,7 +33,7 @@ personal_didactic – profesori cu specializări, salarii, funcții
 
 personal_auxiliar – personal medical, întreținere, tehnic
 
-profiluri – categorii de studiu (Real, Uman), cu număr clase/locuri
+profiluri – categorii de studiu (real, uman), cu număr clase/locuri
 
 orare – intervale orare, zile, sală, profil asociat
 
@@ -46,9 +46,9 @@ cataloage – evidență clase: nume, note, absențe, învoiri
 ---
 
 ## Structura fișierelor
-documentatie_baza_de_date_scoala.pdf – documentație completă
+school_db_documentation.pdf – documentație completă
 
-diagrama_scoala.png – diagramă EA relațională completă
+school_diagram.pdf – diagramă EA relațională completă
 
 dbschool.sql – script SQL pentru definirea conținutului bazei de date și exemple de interogări 
 
