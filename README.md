@@ -54,23 +54,6 @@ dbschool.sql – script SQL pentru definirea conținutului bazei de date și exe
 
 ---
 
-## Interogări exemplu
-Afișare elevi între clasele a V-a și a X-a
-
-Calcul salariu mediu personal administrativ
-
-Numele materiilor predate lunea
-
-Vizualizare săli cu dotări și peste 30 locuri
-
-Elevi fără număr de telefon înregistrat
-
-View: elevi și părinți asociați (EleviSiParinti)
-
-Concatenare detalii elev + școală (Detalii)
-
----
-
 ## Tehnologii utilizate
 Oracle SQL Developer – IDE principal pentru testare și rulare cod SQL
 
